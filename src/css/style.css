@@ -18,20 +18,21 @@
 }
 
 .login img{
-    width: 300px;
+    width: 320px;
 }
 
 .login label{
     display: block;
+    font-weight: 600;
 }
 
 .login input{
     background-color: rgb(49, 49, 49);
     width: 25rem;
-    height: 2.75rem;
+    height: 2.85rem;
     border: 1px solid #FFFFFF;
     border-radius: 4px;
-    margin: 5px 5px;
+    margin-bottom: 15px;
 }
 
 .btnSubmit{
@@ -41,7 +42,7 @@
     width: 10rem;
     height: 3.25rem;
     font-size: x-large;
-    margin-top: 5rem;
+    margin-top: 4rem;
     text-align: center;
     border: 1px solid transparent;
     border-radius: 4px;
